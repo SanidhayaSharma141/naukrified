@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148795157918",
+    "project_id": "naukrified-64853",
+    "storage_bucket": "naukrified-64853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148795157918:android:1c170ba5e50cb9c1c17a8f",
+        "android_client_info": {
+          "package_name": "com.example.naukrified"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftQRL4SMUUX_3-F127rUFzrzApSLdv_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
